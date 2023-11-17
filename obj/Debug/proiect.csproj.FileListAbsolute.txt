@@ -1,0 +1,283 @@
+C:\Users\Diana\Desktop\scoala\info\c#\proiect\bin\Debug\proiect.exe.config
+C:\Users\Diana\Desktop\scoala\info\c#\proiect\bin\Debug\proiect.exe
+C:\Users\Diana\Desktop\scoala\info\c#\proiect\bin\Debug\proiect.pdb
+C:\Users\Diana\Desktop\scoala\info\c#\proiect\obj\Debug\proiect.csprojAssemblyReference.cache
+C:\Users\Diana\Desktop\scoala\info\c#\proiect\obj\Debug\proiect.Form1.resources
+C:\Users\Diana\Desktop\scoala\info\c#\proiect\obj\Debug\proiect.Properties.Resources.resources
+C:\Users\Diana\Desktop\scoala\info\c#\proiect\obj\Debug\proiect.csproj.GenerateResource.cache
+C:\Users\Diana\Desktop\scoala\info\c#\proiect\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\scoala\info\c#\proiect\obj\Debug\proiect.exe
+C:\Users\Diana\Desktop\scoala\info\c#\proiect\obj\Debug\proiect.pdb
+C:\Users\Diana\Desktop\scoala\info\c#\proiect\obj\Debug\proiect.Form2.resources
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\bin\Debug\proiect.exe.config
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\bin\Debug\proiect.exe
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\bin\Debug\proiect.pdb
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\obj\Debug\proiect.csprojAssemblyReference.cache
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\obj\Debug\proiect.Form1.resources
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\obj\Debug\proiect.Form2.resources
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\obj\Debug\proiect.Properties.Resources.resources
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\obj\Debug\proiect.csproj.GenerateResource.cache
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\obj\Debug\proiect.exe
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\obj\Debug\proiect.pdb
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\obj\Debug\proiect.Form3.resources
+A:\sus\proiect atestat\bin\Debug\proiect.exe.config
+A:\sus\proiect atestat\bin\Debug\proiect.exe
+A:\sus\proiect atestat\bin\Debug\proiect.pdb
+A:\sus\proiect atestat\obj\Debug\proiect.csprojAssemblyReference.cache
+A:\sus\proiect atestat\obj\Debug\proiect.Form1.resources
+A:\sus\proiect atestat\obj\Debug\proiect.Form2.resources
+A:\sus\proiect atestat\obj\Debug\proiect.Form3.resources
+A:\sus\proiect atestat\obj\Debug\proiect.Properties.Resources.resources
+A:\sus\proiect atestat\obj\Debug\proiect.csproj.GenerateResource.cache
+A:\sus\proiect atestat\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+A:\sus\proiect atestat\obj\Debug\proiect.exe
+A:\sus\proiect atestat\obj\Debug\proiect.pdb
+A:\Downloads\proiect atestat\bin\Debug\proiect.exe.config
+A:\Downloads\proiect atestat\bin\Debug\proiect.exe
+A:\Downloads\proiect atestat\bin\Debug\proiect.pdb
+A:\Downloads\proiect atestat\obj\Debug\proiect.Form1.resources
+A:\Downloads\proiect atestat\obj\Debug\proiect.Form2.resources
+A:\Downloads\proiect atestat\obj\Debug\proiect.Form3.resources
+A:\Downloads\proiect atestat\obj\Debug\proiect.Properties.Resources.resources
+A:\Downloads\proiect atestat\obj\Debug\proiect.csproj.GenerateResource.cache
+A:\Downloads\proiect atestat\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+A:\Downloads\proiect atestat\obj\Debug\proiect.exe
+A:\Downloads\proiect atestat\obj\Debug\proiect.pdb
+A:\Downloads\proiect atestat\obj\Debug\proiect.csproj.AssemblyReference.cache
+A:\Downloads\proiect atestat\bin\Debug\FireSharp.dll
+A:\Downloads\proiect atestat\bin\Debug\FireSharp.Serialization.JsonNet.dll
+A:\Downloads\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.dll
+A:\Downloads\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+A:\Downloads\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+A:\Downloads\proiect atestat\bin\Debug\Newtonsoft.Json.dll
+A:\Downloads\proiect atestat\bin\Debug\RestSharp.dll
+A:\Downloads\proiect atestat\bin\Debug\System.Net.Http.Extensions.dll
+A:\Downloads\proiect atestat\bin\Debug\System.Net.Http.Primitives.dll
+A:\Downloads\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.xml
+A:\Downloads\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+A:\Downloads\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+A:\Downloads\proiect atestat\bin\Debug\Newtonsoft.Json.xml
+A:\Downloads\proiect atestat\bin\Debug\RestSharp.xml
+A:\Downloads\proiect atestat\bin\Debug\System.Net.Http.Extensions.xml
+A:\Downloads\proiect atestat\bin\Debug\System.Net.Http.Primitives.xml
+A:\Downloads\proiect atestat\obj\Debug\proiect.csproj.App.config
+A:\Downloads\proiect atestat\obj\Debug\proiect.csproj.CopyComplete
+A:\Downloads\proiect atestat\obj\Debug\proiect.Form4.resources
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\obj\Debug\proiect.csproj.App.config
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\obj\Debug\proiect.Form4.resources
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\bin\Debug\FireSharp.dll
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\bin\Debug\RestSharp.dll
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\bin\Debug\RestSharp.xml
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Diana\Desktop\scoala\info\c#\proiect atestat\obj\Debug\proiect.csproj.CopyComplete
+C:\Users\Andrei\Desktop\proiect atestat\bin\Debug\proiect.exe.config
+C:\Users\Andrei\Desktop\proiect atestat\bin\Debug\proiect.exe
+C:\Users\Andrei\Desktop\proiect atestat\bin\Debug\proiect.pdb
+C:\Users\Andrei\Desktop\proiect atestat\bin\Debug\FireSharp.dll
+C:\Users\Andrei\Desktop\proiect atestat\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Andrei\Desktop\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Andrei\Desktop\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Andrei\Desktop\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Andrei\Desktop\proiect atestat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrei\Desktop\proiect atestat\bin\Debug\RestSharp.dll
+C:\Users\Andrei\Desktop\proiect atestat\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Andrei\Desktop\proiect atestat\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Andrei\Desktop\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Andrei\Desktop\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Andrei\Desktop\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Andrei\Desktop\proiect atestat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrei\Desktop\proiect atestat\bin\Debug\RestSharp.xml
+C:\Users\Andrei\Desktop\proiect atestat\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Andrei\Desktop\proiect atestat\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Andrei\Desktop\proiect atestat\obj\Debug\proiect.csproj.App.config
+C:\Users\Andrei\Desktop\proiect atestat\obj\Debug\proiect.csproj.AssemblyReference.cache
+C:\Users\Andrei\Desktop\proiect atestat\obj\Debug\proiect.Form4.resources
+C:\Users\Andrei\Desktop\proiect atestat\obj\Debug\proiect.Form1.resources
+C:\Users\Andrei\Desktop\proiect atestat\obj\Debug\proiect.Form2.resources
+C:\Users\Andrei\Desktop\proiect atestat\obj\Debug\proiect.Form3.resources
+C:\Users\Andrei\Desktop\proiect atestat\obj\Debug\proiect.Properties.Resources.resources
+C:\Users\Andrei\Desktop\proiect atestat\obj\Debug\proiect.csproj.GenerateResource.cache
+C:\Users\Andrei\Desktop\proiect atestat\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\proiect atestat\obj\Debug\proiect.csproj.CopyComplete
+C:\Users\Andrei\Desktop\proiect atestat\obj\Debug\proiect.exe
+C:\Users\Andrei\Desktop\proiect atestat\obj\Debug\proiect.pdb
+C:\Users\Diana\Desktop\vlad info\proiect atestat\bin\Debug\proiect.exe.config
+C:\Users\Diana\Desktop\vlad info\proiect atestat\bin\Debug\proiect.exe
+C:\Users\Diana\Desktop\vlad info\proiect atestat\bin\Debug\proiect.pdb
+C:\Users\Diana\Desktop\vlad info\proiect atestat\bin\Debug\FireSharp.dll
+C:\Users\Diana\Desktop\vlad info\proiect atestat\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Diana\Desktop\vlad info\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Diana\Desktop\vlad info\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Diana\Desktop\vlad info\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Diana\Desktop\vlad info\proiect atestat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Diana\Desktop\vlad info\proiect atestat\bin\Debug\RestSharp.dll
+C:\Users\Diana\Desktop\vlad info\proiect atestat\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Diana\Desktop\vlad info\proiect atestat\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Diana\Desktop\vlad info\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Diana\Desktop\vlad info\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Diana\Desktop\vlad info\proiect atestat\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Diana\Desktop\vlad info\proiect atestat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Diana\Desktop\vlad info\proiect atestat\bin\Debug\RestSharp.xml
+C:\Users\Diana\Desktop\vlad info\proiect atestat\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Diana\Desktop\vlad info\proiect atestat\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Diana\Desktop\vlad info\proiect atestat\obj\Debug\proiect.csproj.App.config
+C:\Users\Diana\Desktop\vlad info\proiect atestat\obj\Debug\proiect.csprojAssemblyReference.cache
+C:\Users\Diana\Desktop\vlad info\proiect atestat\obj\Debug\proiect.Form4.resources
+C:\Users\Diana\Desktop\vlad info\proiect atestat\obj\Debug\proiect.Form1.resources
+C:\Users\Diana\Desktop\vlad info\proiect atestat\obj\Debug\proiect.Form2.resources
+C:\Users\Diana\Desktop\vlad info\proiect atestat\obj\Debug\proiect.Form3.resources
+C:\Users\Diana\Desktop\vlad info\proiect atestat\obj\Debug\proiect.Properties.Resources.resources
+C:\Users\Diana\Desktop\vlad info\proiect atestat\obj\Debug\proiect.csproj.GenerateResource.cache
+C:\Users\Diana\Desktop\vlad info\proiect atestat\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\vlad info\proiect atestat\obj\Debug\proiect.csproj.CopyComplete
+C:\Users\Diana\Desktop\vlad info\proiect atestat\obj\Debug\proiect.exe
+C:\Users\Diana\Desktop\vlad info\proiect atestat\obj\Debug\proiect.pdb
+C:\Users\Andrei\Desktop\pa\obj\Debug\proiect.csproj.App.config
+C:\Users\Andrei\Desktop\pa\obj\Debug\proiect.csproj.AssemblyReference.cache
+C:\Users\Andrei\Desktop\pa\obj\Debug\proiect.Form4.resources
+C:\Users\Andrei\Desktop\pa\obj\Debug\proiect.Form1.resources
+C:\Users\Andrei\Desktop\pa\obj\Debug\proiect.Form2.resources
+C:\Users\Andrei\Desktop\pa\obj\Debug\proiect.Form3.resources
+C:\Users\Andrei\Desktop\pa\obj\Debug\proiect.Properties.Resources.resources
+C:\Users\Andrei\Desktop\pa\obj\Debug\proiect.csproj.GenerateResource.cache
+C:\Users\Andrei\Desktop\pa\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\pa\obj\Debug\proiect.exe
+C:\Users\Andrei\Desktop\pa\obj\Debug\proiect.pdb
+C:\Users\Andrei\Desktop\pa\bin\Debug\proiect.exe.config
+C:\Users\Andrei\Desktop\pa\bin\Debug\proiect.exe
+C:\Users\Andrei\Desktop\pa\bin\Debug\proiect.pdb
+C:\Users\Andrei\Desktop\pa\bin\Debug\FireSharp.dll
+C:\Users\Andrei\Desktop\pa\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Andrei\Desktop\pa\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Andrei\Desktop\pa\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Andrei\Desktop\pa\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Andrei\Desktop\pa\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrei\Desktop\pa\bin\Debug\RestSharp.dll
+C:\Users\Andrei\Desktop\pa\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Andrei\Desktop\pa\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Andrei\Desktop\pa\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Andrei\Desktop\pa\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Andrei\Desktop\pa\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Andrei\Desktop\pa\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrei\Desktop\pa\bin\Debug\RestSharp.xml
+C:\Users\Andrei\Desktop\pa\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Andrei\Desktop\pa\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Andrei\Desktop\pa\obj\Debug\proiect.Form5.resources
+C:\Users\Andrei\Desktop\pa\obj\Debug\proiect.csproj.CopyComplete
+C:\Users\Andrei\Desktop\pa\bin\Debug\melodinatorul.mdf
+C:\Users\Andrei\Desktop\pa\bin\Debug\melodinatorul_log.ldf
+C:\Users\Diana\Desktop\atestat\pa\bin\Debug\melodinatorul.mdf
+C:\Users\Diana\Desktop\atestat\pa\bin\Debug\melodinatorul_log.ldf
+C:\Users\Diana\Desktop\atestat\pa\bin\Debug\proiect.exe.config
+C:\Users\Diana\Desktop\atestat\pa\bin\Debug\proiect.exe
+C:\Users\Diana\Desktop\atestat\pa\bin\Debug\proiect.pdb
+C:\Users\Diana\Desktop\atestat\pa\bin\Debug\FireSharp.dll
+C:\Users\Diana\Desktop\atestat\pa\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Diana\Desktop\atestat\pa\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Diana\Desktop\atestat\pa\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Diana\Desktop\atestat\pa\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Diana\Desktop\atestat\pa\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Diana\Desktop\atestat\pa\bin\Debug\RestSharp.dll
+C:\Users\Diana\Desktop\atestat\pa\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Diana\Desktop\atestat\pa\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Diana\Desktop\atestat\pa\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Diana\Desktop\atestat\pa\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Diana\Desktop\atestat\pa\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Diana\Desktop\atestat\pa\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Diana\Desktop\atestat\pa\bin\Debug\RestSharp.xml
+C:\Users\Diana\Desktop\atestat\pa\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Diana\Desktop\atestat\pa\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Diana\Desktop\atestat\pa\obj\Debug\proiect.csproj.App.config
+C:\Users\Diana\Desktop\atestat\pa\obj\Debug\proiect.csprojAssemblyReference.cache
+C:\Users\Diana\Desktop\atestat\pa\obj\Debug\proiect.Form4.resources
+C:\Users\Diana\Desktop\atestat\pa\obj\Debug\proiect.Form1.resources
+C:\Users\Diana\Desktop\atestat\pa\obj\Debug\proiect.Form2.resources
+C:\Users\Diana\Desktop\atestat\pa\obj\Debug\proiect.Form3.resources
+C:\Users\Diana\Desktop\atestat\pa\obj\Debug\proiect.Form5.resources
+C:\Users\Diana\Desktop\atestat\pa\obj\Debug\proiect.Properties.Resources.resources
+C:\Users\Diana\Desktop\atestat\pa\obj\Debug\proiect.csproj.GenerateResource.cache
+C:\Users\Diana\Desktop\atestat\pa\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\atestat\pa\obj\Debug\proiect.csproj.CopyComplete
+C:\Users\Diana\Desktop\atestat\pa\obj\Debug\proiect.exe
+C:\Users\Diana\Desktop\atestat\pa\obj\Debug\proiect.pdb
+C:\Users\Diana\Desktop\atestat\Generator de melodii\bin\Debug\melodinatorul.mdf
+C:\Users\Diana\Desktop\atestat\Generator de melodii\bin\Debug\melodinatorul_log.ldf
+C:\Users\Diana\Desktop\atestat\Generator de melodii\bin\Debug\proiect.exe.config
+C:\Users\Diana\Desktop\atestat\Generator de melodii\bin\Debug\proiect.exe
+C:\Users\Diana\Desktop\atestat\Generator de melodii\bin\Debug\proiect.pdb
+C:\Users\Diana\Desktop\atestat\Generator de melodii\bin\Debug\FireSharp.dll
+C:\Users\Diana\Desktop\atestat\Generator de melodii\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Diana\Desktop\atestat\Generator de melodii\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Diana\Desktop\atestat\Generator de melodii\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Diana\Desktop\atestat\Generator de melodii\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Diana\Desktop\atestat\Generator de melodii\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Diana\Desktop\atestat\Generator de melodii\bin\Debug\RestSharp.dll
+C:\Users\Diana\Desktop\atestat\Generator de melodii\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Diana\Desktop\atestat\Generator de melodii\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Diana\Desktop\atestat\Generator de melodii\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Diana\Desktop\atestat\Generator de melodii\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Diana\Desktop\atestat\Generator de melodii\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Diana\Desktop\atestat\Generator de melodii\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Diana\Desktop\atestat\Generator de melodii\bin\Debug\RestSharp.xml
+C:\Users\Diana\Desktop\atestat\Generator de melodii\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Diana\Desktop\atestat\Generator de melodii\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Diana\Desktop\atestat\Generator de melodii\obj\Debug\proiect.csproj.App.config
+C:\Users\Diana\Desktop\atestat\Generator de melodii\obj\Debug\proiect.csprojAssemblyReference.cache
+C:\Users\Diana\Desktop\atestat\Generator de melodii\obj\Debug\proiect.Form4.resources
+C:\Users\Diana\Desktop\atestat\Generator de melodii\obj\Debug\proiect.Form1.resources
+C:\Users\Diana\Desktop\atestat\Generator de melodii\obj\Debug\proiect.Form2.resources
+C:\Users\Diana\Desktop\atestat\Generator de melodii\obj\Debug\proiect.Form3.resources
+C:\Users\Diana\Desktop\atestat\Generator de melodii\obj\Debug\proiect.Form5.resources
+C:\Users\Diana\Desktop\atestat\Generator de melodii\obj\Debug\proiect.Properties.Resources.resources
+C:\Users\Diana\Desktop\atestat\Generator de melodii\obj\Debug\proiect.csproj.GenerateResource.cache
+C:\Users\Diana\Desktop\atestat\Generator de melodii\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\atestat\Generator de melodii\obj\Debug\proiect.csproj.CopyComplete
+C:\Users\Diana\Desktop\atestat\Generator de melodii\obj\Debug\proiect.exe
+C:\Users\Diana\Desktop\atestat\Generator de melodii\obj\Debug\proiect.pdb
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\bin\Debug\melodinatorul.mdf
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\bin\Debug\melodinatorul_log.ldf
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\bin\Debug\proiect.exe.config
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\bin\Debug\proiect.exe
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\bin\Debug\proiect.pdb
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\bin\Debug\FireSharp.dll
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\bin\Debug\RestSharp.dll
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\bin\Debug\RestSharp.xml
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\obj\Debug\proiect.csproj.App.config
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\obj\Debug\proiect.csproj.AssemblyReference.cache
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\obj\Debug\proiect.Form4.resources
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\obj\Debug\proiect.Form1.resources
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\obj\Debug\proiect.Form2.resources
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\obj\Debug\proiect.Form3.resources
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\obj\Debug\proiect.Form5.resources
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\obj\Debug\proiect.Properties.Resources.resources
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\obj\Debug\proiect.csproj.GenerateResource.cache
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\obj\Debug\proiect.csproj.CopyComplete
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\obj\Debug\proiect.exe
+C:\Users\Andrei\Desktop\atestat\Generator de melodii\obj\Debug\proiect.pdb

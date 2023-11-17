@@ -1,0 +1,499 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="The Kinks - Lola" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The Kinks - Lola.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sparks - Thank God It's Not Christmas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Sparks - Thank God It's Not Christmas.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Devo - Uncontrollable Urge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Devo - Uncontrollable Urge.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="David Bowie - Speed of Life" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\David Bowie - Speed of Life.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The Cure - Disintegration" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The Cure - Disintegration.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Can - Future Days" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Can - Future Days.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Siouxsie and The Banshees - Spellbound" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Siouxsie and The Banshees - Spellbound.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Minutemen - Anxious Mo-Fo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Minutemen - Anxious Mo-Fo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Herbie Hancock - Hidden Shadows" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Herbie Hancock - Hidden Shadows.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The Beatles - Eleanor Rigby" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The Beatles - Eleanor Rigby.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bad Brains - Sailin' On" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Bad Brains - Sailin' On.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Miles Davis - Shhh  Peaceful" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Miles Davis - Shhh  Peaceful.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="melodinator (9)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\melodinator (9)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="video" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\video.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rush - Limelight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Rush - Limelight.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="This Heat - Paper Hats" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\This Heat - Paper Hats.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Muddy Waters - Mean Disposition" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Muddy Waters - Mean Disposition.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="send" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\send.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Van der Graaf Generator - Killer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Van der Graaf Generator - Killer.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lou Reed - Perfect Day" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Lou Reed - Perfect Day.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="the Jimi Hendrix Experience - 1983" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\the Jimi Hendrix Experience - 1983.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="melodinator (8)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\melodinator (8).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Silver Apples - Lovefingers" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Silver Apples - Lovefingers.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lynyrd Skynyrd - Free Bird" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Lynyrd Skynyrd - Free Bird.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="America - Rainy Day1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\America - Rainy Day.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hüsker Dü - Something I Learned Today" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Hüsker Dü - Something I Learned Today.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gentle Giant - Proclamation" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Gentle Giant - Proclamation.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="King Crimson - 21st Century Schizoid Man1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\King Crimson - 21st Century Schizoid Man.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled design1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled design1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mingus - Solo Dancer, Stop! Look! And Listen, Sinner Jim Whitney" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Mingus - Solo Dancer, Stop! Look! And Listen, Sinner Jim Whitney.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The Kinks - Do you remember Walter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The Kinks - Do you remember Walter.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pink Floyd - Interstellar Overdrive" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Pink Floyd - Interstellar Overdrive.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pixies - Debaser" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Pixies - Debaser.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dinosaur Jr - Sludgefeast" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Dinosaur Jr - Sludgefeast.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The Clash - The Guns of Brixton" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The Clash - The Guns of Brixton.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="melodinator (7)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\melodinator (7).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Wire - Mannequin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Wire - Mannequin.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="melodinator (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\melodinator (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Blondie - Heart of Glass" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Blondie - Heart of Glass.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Black Flag - Beat My Head Against the Wall" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Black Flag - Beat My Head Against the Wall.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The Byrds - Renaissance Fair1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The Byrds - Renaissance Fair.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Big Black - Kerosene" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Big Black - Kerosene.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Steely Dan - Do It Again" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Steely Dan - Do It Again.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The Sound - I can't escape myself" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The Sound - I can't escape myself.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Blue Oyster Cult - Astronomy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Blue Oyster Cult - Astronomy.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Yes - Close to the edge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Yes - Close to the edge.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Small Faces - Song of a Baker" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Small Faces - Song of a Baker.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Television - Marquee Moon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Television - Marquee Moon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Kraftwerk - Das Model" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Kraftwerk - Das Model.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="White Noise - Your Hidden Dreams" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\White Noise - Your Hidden Dreams.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="melodinator_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\melodinator_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The Beatles - Eleanor Rigby1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The Beatles - Eleanor Rigby.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="the Jimi Hendrix Experience - 19831" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\the Jimi Hendrix Experience - 1983.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The Monkees - The Door Into Summer1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The Monkees - The Door Into Summer.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="David Bowie -Scary Monsters (And Super Creeps)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\David Bowie -Scary Monsters (And Super Creeps).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leonard Cohen - Master Song" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Leonard Cohen - Master Song.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Joy Division - Disorder" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Joy Division - Disorder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ultimate Spinach - Jazz Thing1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Ultimate Spinach - Jazz Thing.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Patti Smith - Gloria" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Patti Smith - Gloria.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ultimate Spinach - Jazz Thing" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Ultimate Spinach - Jazz Thing.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cream - Sunshine Of Your Love" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Cream - Sunshine Of Your Love.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Love - Andmoreagain1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Love - Andmoreagain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Jefferson Airplane - Today" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Jefferson Airplane - Today.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="White Noise - Your Hidden Dreams1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\White Noise - Your Hidden Dreams.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="melodinator (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\melodinator (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="America - Rainy Day" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\America - Rainy Day.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The Byrds - Renaissance Fair" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The Byrds - Renaissance Fair.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Jefferson Airplane - Today1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Jefferson Airplane - Today.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The Monkees - The Door Into Summer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The Monkees - The Door Into Summer.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled design" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled design.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="XTC - When You're Near Me I Have Difficulty" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\XTC - When You're Near Me I Have Difficulty.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="melodinator (5)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\melodinator (5).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Led Zeppelin - Dazed and Confused" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Led Zeppelin - Dazed and Confused.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gang of Four - Damaged Goods" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Gang of Four - Damaged Goods.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Jethro Tull - Aqualung" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Jethro Tull - Aqualung.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cream - Sunshine Of Your Love1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Cream - Sunshine Of Your Love.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="melodinator (6)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\melodinator (6).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="790" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\790.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="13th Floor Elevators - You're Gonna Miss Me" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\13th Floor Elevators - You're Gonna Miss Me.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The Kinks - Do you remember Walter1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The Kinks - Do you remember Walter.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The Beach Boys -  God only knows1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The Beach Boys -  God only knows.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="melodinator (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\melodinator (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The Smiths - I Know It's Over" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The Smiths - I Know It's Over.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="David Bowie - Oh! You pretty things" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\David Bowie - Oh! You pretty things.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Frank Zappa - Peaches En Regalia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Frank Zappa - Peaches En Regalia.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weather Report - Black market" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Weather Report - Black market.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="melodinator (4)2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\melodinator (4)2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="melodinator (4)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\melodinator (4)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The pretty things - S.F. Sorrow is born" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The pretty things - S.F. Sorrow is born.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The Modern Lovers - Astral Plane" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The Modern Lovers - Astral Plane.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Paul McCartney &amp; Wings - Jet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Paul McCartney &amp; Wings - Jet.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The West Coast Pop Art Experimental Band - Shifting Sands1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The West Coast Pop Art Experimental Band - Shifting Sands.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The West Coast Pop Art Experimental Band - Shifting Sands" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The West Coast Pop Art Experimental Band - Shifting Sands.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The Stooges - Down on the Street" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The Stooges - Down on the Street.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Comus - Diana" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Comus - Diana.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The Zombies - Care of Cell 441" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The Zombies - Care of Cell 44.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pink Floyd - Interstellar Overdrive1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Pink Floyd - Interstellar Overdrive.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="melodinator (7)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\melodinator (7)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ty" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ty.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mort Garson - Symphony for a Spider Plant" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Mort Garson - Symphony for a Spider Plant.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="YouTube-Emblem" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\YouTube-Emblem.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eno - I'll Come Running" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Eno - I'll Come Running.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Black Sabbath -Solitude" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Black Sabbath -Solitude.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="13th Floor Elevators - You're Gonna Miss Me1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\13th Floor Elevators - You're Gonna Miss Me.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dead Kennedys - Trust Your Mechanic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Dead Kennedys - Trust Your Mechanic.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="melodinator (9)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\melodinator (9).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The doors - End of the Night1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The doors - End of the Night.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The Velvet Underground - Heroin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The Velvet Underground - Heroin.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Small Faces - Song of a Baker1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Small Faces - Song of a Baker.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Love - Andmoreagain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Love - Andmoreagain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Joy Division - A Means to an End" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Joy Division - A Means to an End.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The doors - End of the Night" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The doors - End of the Night.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pink Floyd- Dogs" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Pink Floyd- Dogs.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Silver Apples - Lovefingers1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Silver Apples - Lovefingers.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The Zombies - Care of Cell 44" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The Zombies - Care of Cell 44.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bauhaus - St. Vitus Dance" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Bauhaus - St. Vitus Dance.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Nick Drake - Place to Be" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Nick Drake - Place to Be.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="King Crimson - 21st Century Schizoid Man" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\King Crimson - 21st Century Schizoid Man.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Led Zeppelin - Dazed and Confused1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Led Zeppelin - Dazed and Confused.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="T. Rex - Cosmic Dancer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\T. Rex - Cosmic Dancer.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The Beach Boys -  God only knows" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The Beach Boys -  God only knows.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="King Crimson - Matte kudasai" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\King Crimson - Matte kudasai.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Talking Heads - Born Under Punches" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Talking Heads - Born Under Punches.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sonic Youth - Teen Age Riot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\Sonic Youth - Teen Age Riot.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The pretty things - S.F1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\coperte\The pretty things - S.F. Sorrow is born.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Design fără titlu (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Design fără titlu (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
